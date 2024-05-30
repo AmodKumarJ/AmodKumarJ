@@ -17,7 +17,7 @@ I'm a passionate full-stack developer with expertise in AI and web development. 
 
 ## Get in Touch
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/amod-kumar-j-34a716232)
-- 🌐 Personal Website: [My Portfolio]([https://yourwebsite.com](https://amodkumarjportfolio.netlify.app/))
+- 🌐 Personal Website: [My Portfolio](https://amodkumarjportfolio.netlify.app/)
 
 ## GitHub Stats
 ![Amod Kumar J's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmodKumarJ&show_icons=true&theme=dark)
