@@ -22,9 +22,6 @@ I'm a passionate full-stack developer with expertise in AI and web development. 
 ## GitHub Stats
 ![Amod Kumar J's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmodKumarJ&show_icons=true&theme=dark)
 
-## Contribution Graph
-[![Amod Kumar J's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmodKumarJ&theme=dracula)](https://github.com/AmodKumarJ)
-
 ## Streak Stats
 ![Amod Kumar J's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmodKumarJ&theme=dark)
 
