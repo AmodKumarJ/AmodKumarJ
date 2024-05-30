@@ -16,14 +16,14 @@ I'm a passionate full-stack developer with expertise in AI and web development. 
 - [Male_Fertility_Detection](https://github.com/AmodKumarJ/Male_Fertility_Detection-Detectron2): Male fertility detection using Detectron2.
 
 ## Get in Touch
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/amod-kumar-j-34a716232)
+- 🌐 Personal Website: [My Portfolio](https://amodkumarjportfolio.netlify.app/)
 
 ## GitHub Stats
 ![Amod Kumar J's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmodKumarJ&show_icons=true&theme=dark)
 
-<!-- Optionally, you can include dynamic content like this:
+
 ## Recent Activity
 [![Amod Kumar J's github activity graph](https://activity-graph.herokuapp.com/graph?username=AmodKumarJ&theme=dracula)](https://github.com/AmodKumarJ)
--->
+
 
