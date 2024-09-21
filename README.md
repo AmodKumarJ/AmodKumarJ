@@ -4,7 +4,7 @@
 I'm a passionate full-stack developer with expertise in AI and web development. I enjoy working on open-source projects and learning new technologies.
 
 ## Skills
-- **Languages:** JavaScript,java,Python, PHP
+- **Languages:** JavaScript,Java,Python, PHP
 - **Frameworks:** React, Node.js, Flask
 - **Tools:** Git, Docker, GitHub Actions
 
