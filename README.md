@@ -4,9 +4,9 @@
 I'm a passionate full-stack developer with expertise in AI and web development. I enjoy working on open-source projects and learning new technologies.
 
 ## Skills
-- **Languages:** JavaScript,Java,Python, PHP
-- **Frameworks:** React, Node.js, Flask
-- **Tools:** Git, Docker, GitHub Actions
+- **Languages:** JavaScript,Java,Python
+- **Frameworks:** React, Node.js, FastAPI
+- **Tools:** Git, Docker, GitHub Actions, AWS
 
 ## Projects
 - [DesignTailwindCSS](https://github.com/AmodKumarJ/DesignTailwindCSS): A collection of UI components designed using Tailwind CSS.
