@@ -5,7 +5,7 @@ I'm a passionate full-stack developer with expertise in AI and web development. 
 
 ## Skills
 - **Languages:** JavaScript,Java,Python
-- **Frameworks:** React, Node.js, FastAPI
+- **Frameworks:** React, Node.js, FastAPI,Spring boot
 - **Tools:** Git, Docker, GitHub Actions, AWS
 
 ## Projects
@@ -37,4 +37,6 @@ I'm a passionate full-stack developer with expertise in AI and web development. 
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+  <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/springboot.png"/> </a>
+  
 </p>
